@@ -1,7 +1,6 @@
-Hello there and welcome to my profile! I am richmail, but you may call me rich.
+Heyooo!
 
-I'm currently learning Python, JS and Linux as well as starting world domonation with an orginization called Eternal.
-
+working on some things; just trying to get by
 
 <!---
 richmailYT/richmailYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
